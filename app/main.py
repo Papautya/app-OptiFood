@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.routers import waste, predict, process
+from app.routers import process
 
 
 def create_app():
