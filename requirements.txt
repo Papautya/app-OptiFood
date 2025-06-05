@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas
+scikit-learn
+statsmodels
+jinja2
+nltk
+openai
